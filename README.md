@@ -1,6 +1,6 @@
 Repository containing all python code produced so far in my PhD project
 
-### Ku_snow:
+### Ku_snow & Ku_snow_2:
   All code written for the production of the "Spurious variability in satellite altimeter-derived sea ice thickness" paper so far.
   ‘dataframes’ folder contains:
   - daily mean
